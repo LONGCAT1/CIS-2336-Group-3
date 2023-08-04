@@ -1,0 +1,21 @@
+#b01 {background-image: url(Images/watercolor.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+
+h1 {text-align: center;
+    color: aquamarine;}
+
+#top {text-align: center;
+    color: darkviolet;
+}
+
+h3 {text-align: center;
+    color: steelblue;
+}
+
+
+
+p {color: teal;}
+
+#rc {text-align: right;}
